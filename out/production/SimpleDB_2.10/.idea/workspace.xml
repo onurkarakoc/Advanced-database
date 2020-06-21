@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd4d8be5-fdcb-47c2-a558-634099bcb25f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acjHlkk2ENGMkHGTs68erHdkvU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/studentClient/simpledb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Startup">
+    <configuration name="CreateStudentDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateStudentDB" />
+      <module name="studentClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW3TestB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentClient.simpledb.HW3TestB" />
+      <module name="studentClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentClient.simpledb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLInterpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SQLInterpreter" />
+      <module name="studentClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Startup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpledb.server.Startup" />
+      <module name="SimpleDB_2.10" />
+      <option name="PROGRAM_PARAMETERS" value="studentdb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpledb.record.TestRecord" />
+      <module name="SimpleDB_2.10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simpledb.record.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Startup" />
+      <item itemvalue="Application.CreateStudentDB" />
+      <item itemvalue="Application.HW3TestB" />
+      <item itemvalue="Application.TestRecord" />
+      <item itemvalue="Application.SQLInterpreter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Startup" />
+        <item itemvalue="Application.TestRecord" />
+        <item itemvalue="Application.SQLInterpreter" />
+        <item itemvalue="Application.CreateStudentDB" />
+        <item itemvalue="Application.HW3TestB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd4d8be5-fdcb-47c2-a558-634099bcb25f" name="Default Changelist" comment="" />
+      <created>1587041691279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587041691279</updated>
+      <workItem from="1587041693768" duration="3883000" />
+      <workItem from="1587056467833" duration="889000" />
+      <workItem from="1587057581975" duration="6873000" />
+      <workItem from="1587108140851" duration="9460000" />
+      <workItem from="1587130100839" duration="40000" />
+      <workItem from="1588787367188" duration="47000" />
+      <workItem from="1588787448444" duration="1218000" />
+      <workItem from="1588931279316" duration="9693000" />
+      <workItem from="1588948608200" duration="1566000" />
+      <workItem from="1589109834861" duration="4532000" />
+      <workItem from="1589118761192" duration="4404000" />
+      <workItem from="1589134287289" duration="255000" />
+      <workItem from="1589139409517" duration="307000" />
+      <workItem from="1589139787759" duration="25000" />
+      <workItem from="1589139844665" duration="218000" />
+      <workItem from="1590587954206" duration="7309000" />
+      <workItem from="1590771578786" duration="8589000" />
+      <workItem from="1590780565056" duration="38000" />
+      <workItem from="1591697848982" duration="4120000" />
+      <workItem from="1591955549841" duration="11127000" />
+      <workItem from="1591976261701" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587041758645">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1587041758645" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1590600785138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590600785138" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1591975931381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591975931381" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1587119211191" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1587060768741" />
+    <state width="1398" height="259" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587057359761" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1591975931380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591975931380" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1587119211191" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1587060768741" />
+    <state width="1398" height="259" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587057359760" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1591975931380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591975931380" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1587119211190" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1587060768740" />
+    <state width="1398" height="259" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587057359760" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1591975931380">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591975931380" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1587119211191" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1587060768741" />
+    <state width="1398" height="259" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587057359761" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1591975926512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591975926512" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1587046733271" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587057359764" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center" timestamp="1591975926511">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591975926511" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1587046733270" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1587057359761" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left" timestamp="1591975926511">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591975926511" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1587046733270" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1587057359761" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right" timestamp="1591975926512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591975926512" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1587046733271" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1587057359761" />
+    <state x="503" y="235" key="chooseDestDirectoryDialog" timestamp="1590601717464">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1590601717464" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1591955570664">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1591955570664" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1587130109462" />
+    <state x="397" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1587056468825" />
+    <state x="458" y="199" key="extract.method.dialog" timestamp="1587117265872">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="458" y="199" key="extract.method.dialog/0.23.1440.812@0.23.1440.812" timestamp="1587117265872" />
+    <state x="378" y="181" width="683" height="539" key="find.popup" timestamp="1591698642345">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="181" width="683" height="539" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1591698642345" />
+    <state x="378" y="186" width="683" height="486" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1587046030324" />
+    <state x="482" y="63" key="refactoring.ChangeSignatureDialog" timestamp="1588939848386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="63" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1588939848386" />
+    <state x="385" y="151" width="670" height="750" key="search.everywhere.popup" timestamp="1591698579217">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="151" width="670" height="750" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591698579217" />
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1587045922937" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/simpledb/server/Startup.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/studentClient/simpledb/CreateStudentDB.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/studentClient/simpledb/studentClient/simpledb/HW3TestA.java</url>
+          <line>13</line>
+          <properties class="studentClient.simpledb.HW3TestA" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/studentClient/simpledb/studentClient/simpledb/HW3TestB.java</url>
+          <line>9</line>
+          <properties class="studentClient.simpledb.HW3TestB" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
