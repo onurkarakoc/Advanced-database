@@ -325,7 +325,7 @@ VII. The Organization of the Server Code
    * The SimpleDB buffer manager is grossly inefficient in two ways:
       • When looking for a buffer to replace, it uses the first unpinned buffer it finds, instead
         of doing something intelligent like LRU. -> LRU is implemented for our case.
-      • When checking to see if a block is already in a buffer, it does a sequential scan of the buffers, instead of keeping a                     data structure (such as a map) to more quickly locate the buffer. -> Map is implemented to more quickliy locate the buffer.
+      • When checking to see if a block is already in a buffer, it does a sequential scan of the buffers, instead of keeping a data structure (such as a map) to more quickly locate the buffer. -> Map is implemented to more quickliy locate the buffer.
    * Implemented non-quiescent checkpointing.
    * SimpleDB only knows how to read files in the forward direction. Added the following
      methods to the class RecordFile:
