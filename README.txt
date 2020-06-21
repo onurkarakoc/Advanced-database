@@ -71,7 +71,7 @@ II. Installation Instructions:
         add the following line to the file:  
                CLASSPATH =.:~/javalib     
                
-        Here, the ‘:’ character separates folder names.  The command 
+        Here, the â€˜:â€™ character separates folder names.  The command 
         therefore says that the folder "." (i.e., your current diretory) 
         and "~/javalib" are to be searched whenever Java needs to find a 
         class.  If the file already contains a CLASSPATH setting, modify 
@@ -83,7 +83,7 @@ II. Installation Instructions:
         a user variable named CLASSPATH that looks like this:
                .;C:\javalib
                
-        Here, the ‘;’ character separates the two folder names.
+        Here, the â€˜;â€™ character separates the two folder names.
 
   5)  Copy the simpledb folder from the distribution file to that
       folder. Within the simpledb folder should be subfolders 
@@ -111,7 +111,7 @@ III. Running the Server:
   one will be created automatically.
  
   If everything is working correctly, when you run the server with a
-  new database folder the following will be printed in the server’s 
+  new database folder the following will be printed in the serverâ€™s 
   window:
 
       creating new database
@@ -318,4 +318,19 @@ VII. The Organization of the Server Code
    The textbook "Database Design and Implementation" describes these
    packages in considerably more detail. For further information, go
    to the URL www.wiley.com/college/sciore
+   
+   Additional Changes to SimpleDB:
+   * The methods setInt and setString of class Page do not check that the new value fits in the page. Solved this problem.
+   * The class Page has methods to get/set only integers and strings. Modified the class to handle other types, such as       booleans and dates.
+   * The SimpleDB buffer manager is grossly inefficient in two ways:
+      â€¢ When looking for a buffer to replace, it uses the first unpinned buffer it finds, instead
+        of doing something intelligent like LRU. -> LRU is implemented for our case.
+      â€¢ When checking to see if a block is already in a buffer, it does a sequential scan of the buffers, instead of keeping a                     data structure (such as a map) to more quickly locate the buffer. -> Map is implemented to more quickliy locate the buffer.
+   * Implemented non-quiescent checkpointing.
+   * SimpleDB only knows how to read files in the forward direction. Added the following
+     methods to the class RecordFile:
+      â€¢ the method previous(), which moves to the previous record in the file and returns
+        false if there is no such record;
+      â€¢ the method afterLast(), which positions the current record to be after the last
+        record in the file.
    
