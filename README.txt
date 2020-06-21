@@ -321,7 +321,7 @@ VII. The Organization of the Server Code
    
    Additional Changes to SimpleDB:
    * The methods setInt and setString of class Page do not check that the new value fits in the page. Solved this problem.
-   * The class Page has methods to get/set only integers and strings. Modified the class to handle other types, such as       booleans and dates.
+   * The class Page has methods to get/set only integers and strings. Modified the class to handle other types, such as booleans and dates.
    * The SimpleDB buffer manager is grossly inefficient in two ways:
       • When looking for a buffer to replace, it uses the first unpinned buffer it finds, instead
         of doing something intelligent like LRU. -> LRU is implemented for our case.
